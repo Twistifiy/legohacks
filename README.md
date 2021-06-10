@@ -1,4 +1,1 @@
-when using the script, follow these steps:
-join the black panther team
-press v
-then execute
+how to use: https://pastebin.com/mB3PeeGq
